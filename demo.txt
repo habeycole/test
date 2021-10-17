@@ -1,1 +1,5 @@
-Hello Daniels
+This shows a workaround of how our quiz app is meant to work.
+
+We are going to create a quiz app using HTML, CSS and JS that resides on the web browser.
+
+Instructions on what was done, how it was done and everything will be shared so anyone can recreate this project to learn web development from scratch.
